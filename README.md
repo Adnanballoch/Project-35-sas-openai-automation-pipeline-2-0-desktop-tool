@@ -15,6 +15,8 @@ SAS (all packages), OpenAI, HTML/Word Export, Python
 
 [![SAS + OpenAI Automation Pipeline 2.0: Desktop Tool](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-35-sas-openai-automation-pipeline-2-0-desktop-tool.jpg)](https://automatrixlab.com/projects/project-35-sas-openai-automation-pipeline-2-0-desktop-tool/)
 
+🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/35-rebuilt-narrated-20261111.mp4
+
 🌐 **See it on the site:** https://automatrixlab.com/projects/project-35-sas-openai-automation-pipeline-2-0-desktop-tool/
 
 ## Access Full Source Code & Live Demo
